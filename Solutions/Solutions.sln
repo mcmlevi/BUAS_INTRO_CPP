@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess_The_Number", "Guess_The_Number\Guess_The_Number.vcxproj", "{CD131ECD-B3AA-45BA-803D-512C51C3389D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "99_bottles", "99_bottles\99_bottles.vcxproj", "{540A02EA-92FC-4008-8307-40763EE44909}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "students_p1", "students_p1\students_p1.vcxproj", "{3815DD16-BF32-42A4-9360-1F7F61D928B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{540A02EA-92FC-4008-8307-40763EE44909}.Release|x64.Build.0 = Release|x64
 		{540A02EA-92FC-4008-8307-40763EE44909}.Release|x86.ActiveCfg = Release|Win32
 		{540A02EA-92FC-4008-8307-40763EE44909}.Release|x86.Build.0 = Release|Win32
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Debug|x64.ActiveCfg = Debug|x64
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Debug|x64.Build.0 = Debug|x64
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Debug|x86.Build.0 = Debug|Win32
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Release|x64.ActiveCfg = Release|x64
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Release|x64.Build.0 = Release|x64
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Release|x86.ActiveCfg = Release|Win32
+		{3815DD16-BF32-42A4-9360-1F7F61D928B6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
